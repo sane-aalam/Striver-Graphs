@@ -1,6 +1,13 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Take - 3 hour to solve 2 questions
+// Eroor Fix 
+// Code syntax
+// Code review
+// Variable naming read into the google 
+// Complexity identification
+
 class Solution {
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int newColor) {
