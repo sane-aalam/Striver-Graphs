@@ -37,6 +37,9 @@ public:
 
             // Traveral the 8-directions
             //  up down left right uprd drdl upld dldl
+
+            // it is hard to understand, use paper and pen to create table to understand
+            // Thank you!
             int delrow[8] = {-1,1,0,0,-1, 1, -1, 1};
             int delcol[8] = {0,0,-1,1, 1, 1, -1, -1}; 
 
